@@ -1,1 +1,1 @@
-# 축구 데이터를 제공하는 웹사이트 스크래핑
+# Python script to scrape “whoscored.com”, a website that provides soccer statistics data
