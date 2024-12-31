@@ -51,9 +51,9 @@ Team Statistics(팀 통계)는 다음과 같은 데이터를 포함합니다.
     - xG/Shots
     - Rating
 
-[!CAUTION] 
-`Summary`, `Offensive` 테이블 포함된 `"Shots pg"`는 경기당 시도한 슈팅 수를 의미하지만,    
-`Defensive` 테이블에 포함된(동일한 이름의) 열 `"Shots pg"`은 경기당 허용한 슈팅 수를 의미합니다.
+> [!CAUTION] 
+> `Summary`, `Offensive` 테이블 포함된 `"Shots pg"`는 경기당 시도한 슈팅 수를 의미하지만, 
+> `Defensive` 테이블에 포함된(동일한 이름의) 열 `"Shots pg"`은 경기당 허용한 슈팅 수를 의미합니다.
 
 
 ### Player Statistics
