@@ -1,13 +1,9 @@
-# Scraping-Football-Statistics
-
-축구 통계를 제공하는 웹사이트 whoscored.com(후스코어드닷컴)을 스크랩하는 파이썬 코드입니다.
-
-## Data
+축구 통계를 제공하는 웹사이트 whoscored.com(후스코어드닷컴)을 스크랩하는 파이썬 코드입니다.   
 
 Team Statistics(팀 통계)와 Player Statistics(선수 통계)를 각각 스크랩합니다.
 
 
-### Team Statistics
+## Team Statistics
 
 > 예: [England Premier League 2023-2024](https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/10316/Stages/23400/TeamStatistics/England-Premier-League-2024-2025)
 
@@ -54,7 +50,7 @@ Team Statistics(팀 통계)와 Player Statistics(선수 통계)를 각각 스크
 > `Defensive` 테이블에 포함된(동일한 이름의) 열 `"Shots pg"`은 경기당 허용한 슈팅 수를 의미합니다.
 
 
-### Player Statistics
+## Player Statistics
 
 > 예: [England Premier League 2023-2024](https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/9618/Stages/22076/PlayerStatistics/England-Premier-League-2023-2024)
 
