@@ -16,7 +16,7 @@ Team Statistics(팀 통계)는 다음과 같은 데이터를 포함합니다.
 모든 테이블에 공통적으로 포함된 열:
 - Team
 
-각 테이블애 포함된 열:
+각 테이블에 포함된 열:
 - Summary
     - Team
     - Tournament
@@ -70,7 +70,7 @@ Player Statistics(선수 통계)는 다음과 같은 데이터를 포함합니�
 - Apps
 - Mins
 
-각 테이블애 포함된 열:
+각 테이블에 포함된 열:
 - Summary
     - Goals
     - Assists
