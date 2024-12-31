@@ -1,3 +1,5 @@
+# scraping-football-statistics
+
 축구 통계를 제공하는 웹사이트 whoscored.com(후스코어드닷컴)을 스크랩하는 파이썬 코드입니다.   
 
 Team Statistics(팀 통계)와 Player Statistics(선수 통계)를 각각 스크랩합니다.
