@@ -9,7 +9,7 @@ Team Statistics(팀 통계)와 Player Statistics(선수 통계)를 각각 스크
 
 ### Team Statistics
 
-예: [England Premier League 2023-2024](https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/10316/Stages/23400/TeamStatistics/England-Premier-League-2024-2025)
+> 예: [England Premier League 2023-2024](https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/10316/Stages/23400/TeamStatistics/England-Premier-League-2024-2025)
 
 모든 테이블에 공통적으로 포함된 열
 - Team
@@ -56,7 +56,7 @@ Team Statistics(팀 통계)와 Player Statistics(선수 통계)를 각각 스크
 
 ### Player Statistics
 
-예: [England Premier League 2023-2024](https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/9618/Stages/22076/PlayerStatistics/England-Premier-League-2023-2024)
+> 예: [England Premier League 2023-2024](https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/9618/Stages/22076/PlayerStatistics/England-Premier-League-2023-2024)
 
 모든 테이블에 공통적으로 포함된 열
 - Rank
