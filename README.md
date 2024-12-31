@@ -1,22 +1,20 @@
 # Scraping-Football-Statistics
 
-축구 통계를 제공하는 웹사이트 whoscored.com(후스코어드닷컴)을 스크랩하는 파이썬 코드합니다.
-
+축구 통계를 제공하는 웹사이트 whoscored.com(후스코어드닷컴)을 스크랩하는 파이썬 코드입니다.
 
 ## Data
 
-Team Statistics(팀 통계)와 Player Statistics(선수 통계)를 각각 나눠서 스크랩합니다.
+Team Statistics(팀 통계)와 Player Statistics(선수 통계)를 각각 스크랩합니다.
 
 
 ### Team Statistics
 
-Team Statistics(팀 통계)는 다음과 같은 데이터를 포함합니다.   
-(예: [England Premier League 2023-2024](https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/10316/Stages/23400/TeamStatistics/England-Premier-League-2024-2025))
+예: [England Premier League 2023-2024](https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/10316/Stages/23400/TeamStatistics/England-Premier-League-2024-2025)
 
-모든 테이블에 공통적으로 포함된 열:
+모든 테이블에 공통적으로 포함된 열
 - Team
 
-각 테이블에 포함된 열:
+각 테이블에 포함된 열
 - Summary
     - Team
     - Tournament
@@ -58,10 +56,9 @@ Team Statistics(팀 통계)는 다음과 같은 데이터를 포함합니다.
 
 ### Player Statistics
 
-Player Statistics(선수 통계)는 다음과 같은 데이터를 포함합니다.   
-(예: [England Premier League 2023-2024](https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/9618/Stages/22076/PlayerStatistics/England-Premier-League-2023-2024))
+예: [England Premier League 2023-2024](https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/9618/Stages/22076/PlayerStatistics/England-Premier-League-2023-2024)
 
-모든 테이블에 공통적으로 포함된 열:
+모든 테이블에 공통적으로 포함된 열
 - Rank
 - Player
 - Team
@@ -70,7 +67,7 @@ Player Statistics(선수 통계)는 다음과 같은 데이터를 포함합니�
 - Apps
 - Mins
 
-각 테이블에 포함된 열:
+각 테이블에 포함된 열
 - Summary
     - Goals
     - Assists
