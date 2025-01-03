@@ -74,7 +74,7 @@ Rank,Player,Team,Age,Position,Apps,Mins,xG,Goals,xGDiff,xG/90,Shots,xG/Shots,Rat
 73,Cody Gakpo,Liverpool,25,"AM(CLR),FW",17(18),1646,8.75,8,-0.75,0.48,66,0.13,6.87
 74,Harry Maguire,Man Utd,31,D(C),18(4),1651,2.25,2,-0.25,0.12,20,0.11,6.87
 75,Marcus Tavernier,Bournemouth,25,M(CLR),25(5),2134,4.4,3,-1.4,0.19,53,0.08,6.86
-76,Simon Adingra,Brighton,22,"M(LR),FW",25(6),2233,4.68,6,1.32,0.19,52,0.09,6.86
+76,Simon Adingra,Brighton,23,"M(LR),FW",25(6),2233,4.68,6,1.32,0.19,52,0.09,6.86
 77,Mario Lemina,Wolves,31,"D(C),M(C)",34(1),2976,4.52,4,-0.52,0.14,48,0.09,6.85
 78,Moisés Caicedo,Chelsea,23,"D(R),DMC",33(2),2875,0.39,1,0.61,0.01,13,0.03,6.85
 79,William Saliba,Arsenal,23,D(C),38,3420,2.24,2,-0.24,0.06,10,0.22,6.85
@@ -90,7 +90,7 @@ Rank,Player,Team,Age,Position,Apps,Mins,xG,Goals,xGDiff,xG/90,Shots,xG/Shots,Rat
 89,Lewis Cook,Bournemouth,27,M(CL),32(1),2792,0.44,-,-0.44,0.01,12,0.04,6.83
 90,Alfie Doughty,Luton,25,"D(L),M(LR)",34(3),2938,1.8,2,0.2,0.06,26,0.07,6.83
 91,Leandro Trossard,Arsenal,30,"M(CLR),FW",18(16),1647,8.92,12,3.08,0.49,60,0.15,6.82
-92,Oliver McBurnie,Sheff Utd,28,"AM(CL),FW",15(6),1287,7.19,6,-1.19,0.5,33,0.22,6.82
+92,Oliver McBurnie,Sheff Utd,28,"AM(CL),FW",15(6),1287,7.19,6,-1.18,0.5,33,0.22,6.82
 93,Jefferson Lerma,Crystal Palace,30,"D(CR),DMC",27(1),2404,2.43,1,-1.43,0.09,34,0.07,6.82
 94,Levi Colwill,Chelsea,21,D(CL),20(3),1800,1.15,1,-0.15,0.06,11,0.1,6.82
 95,Marc Cucurella,Chelsea,26,"D(CL),M(L)",20(1),1786,1.15,-,-1.15,0.06,8,0.14,6.81
@@ -123,7 +123,7 @@ Rank,Player,Team,Age,Position,Apps,Mins,xG,Goals,xGDiff,xG/90,Shots,xG/Shots,Rat
 122,Enzo Fernández,Chelsea,23,M(C),26(2),2215,6.33,3,-3.33,0.26,47,0.13,6.75
 123,Aaron Wan-Bissaka,Man Utd,27,"D(LR),M(R)",20(2),1782,0.2,-,-0.2,0.01,3,0.07,6.75
 124,Chris Wood,Nottingham Forest,33,FW,20(11),1810,12.06,14,1.94,0.6,48,0.25,6.75
-125,Andreas Pereira,Fulham,28,M(CLR),34(3),2638,4.64,3,-1.64,0.16,52,0.09,6.75
+125,Andreas Pereira,Fulham,29,M(CLR),34(3),2638,4.64,3,-1.64,0.16,52,0.09,6.75
 126,Joelinton,Newcastle,28,"AM(CLR),FW",15(5),1281,3.16,2,-1.16,0.22,19,0.17,6.75
 127,Malo Gusto,Chelsea,21,"D(R),M(R)",19(8),1756,1.44,-,-1.44,0.07,15,0.1,6.74
 128,Callum Wilson,Newcastle,32,FW,9(11),984,9.34,9,-0.34,0.85,35,0.27,6.74
@@ -137,7 +137,7 @@ Rank,Player,Team,Age,Position,Apps,Mins,xG,Goals,xGDiff,xG/90,Shots,xG/Shots,Rat
 136,Jack Grealish,Man City,29,"AM(CL),FW",10(10),1004,2.11,3,0.89,0.19,22,0.1,6.72
 137,Yves Bissouma,Tottenham,28,M(C),26(2),2088,1.28,-,-1.28,0.06,24,0.05,6.72
 138,Maximilian Kilman,Wolves,27,D(C),38,3420,2.46,2,-0.46,0.06,14,0.18,6.71
-139,Mathias Jensen,Brentford,28,M(C),27(5),2220,0.61,3,2.39,0.02,14,0.04,6.71
+139,Mathias Jensen,Brentford,29,M(C),27(5),2220,0.61,3,2.39,0.02,14,0.04,6.71
 140,Scott McTominay,Man Utd,28,"D(C),M(C)",18(14),1893,6.62,7,0.38,0.31,44,0.15,6.71
 141,Destiny Udogie,Tottenham,22,"D(L),M(L)",28,2398,2.61,2,-0.61,0.1,9,0.29,6.71
 142,Amadou Onana,Everton,23,DMC,23(7),2094,2.44,2,-0.44,0.11,29,0.08,6.71
@@ -163,7 +163,7 @@ Rank,Player,Team,Age,Position,Apps,Mins,xG,Goals,xGDiff,xG/90,Shots,xG/Shots,Rat
 162,Teden Mengi,Luton,22,D(C),28(2),2470,0.88,1,0.12,0.03,11,0.08,6.65
 163,Ezri Konsa,Aston Villa,27,D(CR),35,3074,2.25,1,-1.25,0.07,19,0.12,6.64
 164,Mateo Kovacic,Man City,30,M(CL),16(14),1549,1.62,1,-0.62,0.09,22,0.07,6.63
-165,Abdoulaye Doucouré,Everton,31,M(C),32,2643,9.3,7,-2.3,0.32,47,0.2,6.63
+165,Abdoulaye Doucouré,Everton,32,M(C),32,2643,9.3,7,-2.3,0.32,47,0.2,6.63
 166,Timothy Castagne,Fulham,29,"D(CLR),M(LR)",29(5),2634,1.17,1,-0.17,0.04,14,0.08,6.63
 167,Youri Tielemans,Aston Villa,27,M(C),17(15),1622,1.08,2,0.92,0.06,14,0.08,6.63
 168,Vinicius Souza,Sheff Utd,25,DMC,29(7),2673,0.68,1,0.32,0.02,14,0.05,6.62
@@ -180,7 +180,7 @@ Rank,Player,Team,Age,Position,Apps,Mins,xG,Goals,xGDiff,xG/90,Shots,xG/Shots,Rat
 179,Dango Ouattara,Bournemouth,22,"D(L),M(LR)",12(18),1222,2.64,1,-1.64,0.19,30,0.09,6.61
 180,Joe Gomez,Liverpool,27,D(CLR),17(15),1779,0.82,-,-0.82,0.04,19,0.04,6.60
 181,Michail Antonio,West Ham,34,"D(R),M(CLR),FW",21(5),1711,5.97,6,0.03,0.31,30,0.2,6.60
-182,Jonny Evans,Man Utd,36,D(CL),15(8),1396,0.06,-,-0.06,-,1,0.06,6.60
+182,Jonny Evans,Man Utd,37,D(CL),15(8),1396,0.06,-,-0.06,-,1,0.06,6.60
 183,Nélson Semedo,Wolves,31,"D(CLR),M(R)",36,3091,1.35,-,-1.35,0.04,17,0.08,6.60
 184,Miguel Almirón,Newcastle,30,"AM(CLR),FW",23(10),1947,4.59,3,-1.59,0.21,41,0.11,6.60
 185,Takehiro Tomiyasu,Arsenal,26,D(CLR),10(12),1144,1.9,2,0.1,0.15,17,0.11,6.60
@@ -241,7 +241,7 @@ Rank,Player,Team,Age,Position,Apps,Mins,xG,Goals,xGDiff,xG/90,Shots,xG/Shots,Rat
 240,Jacob Bruun Larsen,Burnley,26,"AM(CLR),FW",16(16),1252,5.03,6,0.97,0.36,44,0.11,6.45
 241,Joel Ward,Crystal Palace,35,"D(CLR),DMC,M(R)",23(3),1982,0.83,-,-0.83,0.04,10,0.08,6.45
 242,Mads Roerslev,Brentford,25,"D(R),M(R)",22(12),1985,1.16,1,-0.16,0.05,7,0.17,6.44
-243,Frank Onyeka,Brentford,26,DMC,11(15),1157,2.1,1,-1.1,0.16,22,0.1,6.43
+243,Frank Onyeka,Brentford,27,DMC,11(15),1157,2.1,1,-1.1,0.16,22,0.1,6.43
 244,Milos Kerkez,Bournemouth,21,"D(L),M(L)",22(6),1976,1.6,-,-1.6,0.07,16,0.1,6.42
 245,Cameron Archer,Sheff Utd,23,FW,21(8),1836,6.89,4,-2.89,0.34,42,0.16,6.42
 246,Nayef Aguerd,West Ham,28,D(C),21,1859,2.01,1,-1.01,0.1,14,0.14,6.42
@@ -254,7 +254,7 @@ Rank,Player,Team,Age,Position,Apps,Mins,xG,Goals,xGDiff,xG/90,Shots,xG/Shots,Rat
 253,Billy Gilmour,Brighton,23,DMC,24(6),2126,1.09,-,-1.09,0.05,25,0.04,6.39
 254,Rodrigo Bentancur,Tottenham,27,M(C),13(10),1010,1.7,1,-0.7,0.15,18,0.09,6.39
 255,James McAtee,Sheff Utd,22,AM(CR),20(10),1826,3.44,3,-0.44,0.17,26,0.13,6.38
-256,Matt Doherty,Wolves,32,"D(LR),M(LR)",9(21),1144,1.26,1,-0.26,0.1,9,0.14,6.38
+256,Matt Doherty,Wolves,32,"D(CLR),M(LR)",9(21),1144,1.26,1,-0.26,0.1,9,0.14,6.38
 257,Diego Carlos,Aston Villa,31,D(C),20(7),1812,1.87,-,-1.87,0.09,10,0.19,6.36
 258,Christian Eriksen,Man Utd,32,"M(CLR),FW",12(10),1141,1.32,1,-0.32,0.1,13,0.1,6.36
 259,Moussa Niakhaté,Nottingham Forest,28,D(CL),15(6),1459,1.16,1,-0.16,0.07,5,0.23,6.36
@@ -265,7 +265,7 @@ Rank,Player,Team,Age,Position,Apps,Mins,xG,Goals,xGDiff,xG/90,Shots,xG/Shots,Rat
 264,Auston Trusty,Sheff Utd,26,D(CL),28(4),2573,0.68,-,-0.68,0.02,8,0.09,6.34
 265,Harrison Reed,Fulham,29,"D(R),M(CR)",15(12),1325,0.29,-,-0.29,0.02,9,0.03,6.34
 266,Andros Townsend,Luton,33,"AM(CLR),FW",14(13),1210,1.12,1,-0.12,0.08,20,0.06,6.34
-267,Carlos Baleba,Brighton,20,DMC,15(12),1324,0.89,-,-0.89,0.06,21,0.04,6.33
+267,Carlos Baleba,Brighton,21,DMC,15(12),1324,0.89,-,-0.89,0.06,21,0.04,6.33
 268,Jhon Durán,Aston Villa,21,FW,3(20),463,2.23,5,2.77,0.43,20,0.11,6.32
 269,Pierre-Emile Højbjerg,Tottenham,29,M(C),8(28),1294,0.64,-,-0.64,0.04,19,0.03,6.32
 270,Jean-Ricner Bellegarde,Wolves,26,M(CLR),10(12),953,1.56,2,0.44,0.15,15,0.1,6.32

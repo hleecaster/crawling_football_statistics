@@ -75,7 +75,7 @@ Rank,Player,Team,Age,Position,Apps,Mins,Assists,KeyP,AvgP,PS%,Crosses,LongB,ThrB
 74,Cody Gakpo,Liverpool,25,"AM(CLR),FW",17(18),1646,5,0.7,15.3,79.3,0.2,0.3,-,6.87
 75,Harry Maguire,Man Utd,31,D(C),18(4),1651,2,0.3,49.8,83.4,-,3.3,-,6.87
 76,Marcus Tavernier,Bournemouth,25,M(CLR),25(5),2134,4,1.5,25.3,79.3,0.8,0.9,0.1,6.86
-77,Simon Adingra,Brighton,22,"M(LR),FW",25(6),2233,1,1.1,24.1,81.1,0.5,0.5,0.2,6.86
+77,Simon Adingra,Brighton,23,"M(LR),FW",25(6),2233,1,1.1,24.1,81.1,0.5,0.5,0.2,6.86
 78,Mario Lemina,Wolves,31,"D(C),M(C)",34(1),2976,1,0.6,41.1,86.7,0.1,1.7,0.1,6.85
 79,Moisés Caicedo,Chelsea,23,"D(R),DMC",33(2),2875,3,0.7,59.9,90.8,-,2.5,0.1,6.85
 80,William Saliba,Arsenal,23,D(C),38,3420,1,0.2,74.7,92.6,-,1.8,0.1,6.85
@@ -126,7 +126,7 @@ Rank,Player,Team,Age,Position,Apps,Mins,Assists,KeyP,AvgP,PS%,Crosses,LongB,ThrB
 125,Enzo Fernández,Chelsea,23,M(C),26(2),2215,2,1.1,64.1,86.9,0.3,4.6,0.3,6.75
 126,Aaron Wan-Bissaka,Man Utd,27,"D(LR),M(R)",20(2),1782,2,0.5,37.8,82.9,0.2,0.6,-,6.75
 127,Chris Wood,Nottingham Forest,33,FW,20(11),1810,1,0.7,13.9,64.5,-,0.2,-,6.75
-128,Andreas Pereira,Fulham,28,M(CLR),34(3),2638,7,2.3,28.7,78.8,1.8,1.4,0.2,6.75
+128,Andreas Pereira,Fulham,29,M(CLR),34(3),2638,7,2.3,28.7,78.8,1.8,1.4,0.2,6.75
 129,Joelinton,Newcastle,28,"AM(CLR),FW",15(5),1281,1,1.2,30.8,83.9,-,0.6,0.2,6.75
 130,Guglielmo Vicario,Tottenham,28,GK,38,3420,-,-,36.1,83.7,-,2.2,-,6.75
 131,Malo Gusto,Chelsea,21,"D(R),M(R)",19(8),1756,6,1.2,45.1,89.2,0.6,1.1,-,6.74
@@ -143,7 +143,7 @@ Rank,Player,Team,Age,Position,Apps,Mins,Assists,KeyP,AvgP,PS%,Crosses,LongB,ThrB
 142,José Sá,Wolves,31,GK,35,3039,1,-,25.8,59.2,-,3.1,-,6.72
 143,Yves Bissouma,Tottenham,28,M(C),26(2),2088,-,0.4,65.5,91.9,-,1.5,-,6.72
 144,Maximilian Kilman,Wolves,27,D(C),38,3420,-,0.4,60.2,86.3,-,3.8,-,6.71
-145,Mathias Jensen,Brentford,28,M(C),27(5),2220,3,1.3,30.4,78.6,1.3,2.6,0.1,6.71
+145,Mathias Jensen,Brentford,29,M(C),27(5),2220,3,1.3,30.4,78.6,1.3,2.6,0.1,6.71
 146,Scott McTominay,Man Utd,28,"D(C),M(C)",18(14),1893,1,0.3,20.1,81.5,-,0.6,-,6.71
 147,Destiny Udogie,Tottenham,22,"D(L),M(L)",28,2398,3,0.9,43.4,87.5,-,0.3,-,6.71
 148,Amadou Onana,Everton,23,DMC,23(7),2094,-,0.6,34.1,84.9,-,2,0.1,6.71
@@ -176,7 +176,7 @@ Rank,Player,Team,Age,Position,Apps,Mins,Assists,KeyP,AvgP,PS%,Crosses,LongB,ThrB
 175,Bart Verbruggen,Brighton,22,GK,21,1890,-,-,35.4,85.6,-,4.3,-,6.64
 176,Ezri Konsa,Aston Villa,27,D(CR),35,3074,-,0.2,55.8,92.2,0.1,1.3,-,6.64
 177,Mateo Kovacic,Man City,30,M(CL),16(14),1549,-,0.7,50.8,94.1,-,0.7,0.1,6.63
-178,Abdoulaye Doucouré,Everton,31,M(C),32,2643,2,1.1,27.1,78.5,0.1,0.5,-,6.63
+178,Abdoulaye Doucouré,Everton,32,M(C),32,2643,2,1.1,27.1,78.5,0.1,0.5,-,6.63
 179,Ederson,Man City,31,GK,33,2789,-,-,33.2,85.9,-,5.6,-,6.63
 180,Timothy Castagne,Fulham,29,"D(CLR),M(LR)",29(5),2634,3,0.5,39.7,81.3,0.3,1.5,-,6.63
 181,Youri Tielemans,Aston Villa,27,M(C),17(15),1622,6,0.6,28.3,86,0.1,1.1,0.2,6.63
@@ -195,7 +195,7 @@ Rank,Player,Team,Age,Position,Apps,Mins,Assists,KeyP,AvgP,PS%,Crosses,LongB,ThrB
 194,Dango Ouattara,Bournemouth,22,"D(L),M(LR)",12(18),1222,2,0.6,14.9,67.6,0.3,0.6,-,6.61
 195,Joe Gomez,Liverpool,27,D(CLR),17(15),1779,1,0.7,35.9,86.2,0.2,1.5,-,6.60
 196,Michail Antonio,West Ham,34,"D(R),M(CLR),FW",21(5),1711,2,0.3,10.3,64.6,0.1,0.3,-,6.60
-197,Jonny Evans,Man Utd,36,D(CL),15(8),1396,1,0.3,35.9,87.9,-,0.7,-,6.60
+197,Jonny Evans,Man Utd,37,D(CL),15(8),1396,1,0.3,35.9,87.9,-,0.7,-,6.60
 198,Nélson Semedo,Wolves,31,"D(CLR),M(R)",36,3091,1,0.7,42.1,80.9,0.4,1.3,-,6.60
 199,Miguel Almirón,Newcastle,30,"AM(CLR),FW",23(10),1947,1,0.7,23.2,85.8,0.1,0.4,0.1,6.60
 200,Takehiro Tomiyasu,Arsenal,26,D(CLR),10(12),1144,1,0.3,27.6,85.5,0.2,0.7,-,6.60
@@ -260,7 +260,7 @@ Rank,Player,Team,Age,Position,Apps,Mins,Assists,KeyP,AvgP,PS%,Crosses,LongB,ThrB
 259,Joel Ward,Crystal Palace,35,"D(CLR),DMC,M(R)",23(3),1982,1,0.1,30.9,75.7,0.1,1.5,-,6.45
 260,Sam Johnstone,Crystal Palace,31,GK,20,1797,-,-,26.6,52.9,-,6.9,-,6.44
 261,Mads Roerslev,Brentford,25,"D(R),M(R)",22(12),1985,2,0.4,17.8,68.9,0.7,0.6,-,6.44
-262,Frank Onyeka,Brentford,26,DMC,11(15),1157,2,0.5,14.4,77.6,0.2,0.5,-,6.43
+262,Frank Onyeka,Brentford,27,DMC,11(15),1157,2,0.5,14.4,77.6,0.2,0.5,-,6.43
 263,Milos Kerkez,Bournemouth,21,"D(L),M(L)",22(6),1976,1,0.4,22.4,77.2,0.4,0.8,-,6.42
 264,Cameron Archer,Sheff Utd,23,FW,21(8),1836,1,0.8,11.3,80.7,0.1,0.1,-,6.42
 265,Nayef Aguerd,West Ham,28,D(C),21,1859,-,0.2,55.4,80.5,-,5,-,6.42
@@ -273,7 +273,7 @@ Rank,Player,Team,Age,Position,Apps,Mins,Assists,KeyP,AvgP,PS%,Crosses,LongB,ThrB
 272,Billy Gilmour,Brighton,23,DMC,24(6),2126,1,0.7,68.8,92.2,0.4,2.1,0.1,6.39
 273,Rodrigo Bentancur,Tottenham,27,M(C),13(10),1010,1,0.3,34.2,85.5,-,0.9,0.1,6.39
 274,James McAtee,Sheff Utd,22,AM(CR),20(10),1826,3,0.9,16.3,72,0.3,0.2,0.1,6.38
-275,Matt Doherty,Wolves,32,"D(LR),M(LR)",9(21),1144,-,0.4,18.8,79.3,-,1,-,6.38
+275,Matt Doherty,Wolves,32,"D(CLR),M(LR)",9(21),1144,-,0.4,18.8,79.3,-,1,-,6.38
 276,Diego Carlos,Aston Villa,31,D(C),20(7),1812,-,0.1,49.6,88.4,-,2.4,-,6.36
 277,Christian Eriksen,Man Utd,32,"M(CLR),FW",12(10),1141,2,1.2,34.3,84.1,0.5,1.5,0.1,6.36
 278,Moussa Niakhaté,Nottingham Forest,28,D(CL),15(6),1459,-,0.1,32.8,85.5,-,1.5,-,6.36
@@ -284,7 +284,7 @@ Rank,Player,Team,Age,Position,Apps,Mins,Assists,KeyP,AvgP,PS%,Crosses,LongB,ThrB
 283,Auston Trusty,Sheff Utd,26,D(CL),28(4),2573,-,0.3,26.4,79,0.1,1.2,-,6.34
 284,Harrison Reed,Fulham,29,"D(R),M(CR)",15(12),1325,2,0.5,26.7,85.3,0.1,0.8,-,6.34
 285,Andros Townsend,Luton,33,"AM(CLR),FW",14(13),1210,3,0.7,12.9,80.2,0.6,0.6,-,6.34
-286,Carlos Baleba,Brighton,20,DMC,15(12),1324,-,0.3,28.6,92.2,-,0.7,-,6.33
+286,Carlos Baleba,Brighton,21,DMC,15(12),1324,-,0.3,28.6,92.2,-,0.7,-,6.33
 287,Jhon Durán,Aston Villa,21,FW,3(20),463,-,0.2,5,71.1,-,-,-,6.32
 288,Pierre-Emile Højbjerg,Tottenham,29,M(C),8(28),1294,-,0.3,38.4,88.6,-,2.1,-,6.32
 289,Jean-Ricner Bellegarde,Wolves,26,M(CLR),10(12),953,1,0.5,12.8,84.3,0.1,0.2,-,6.32
